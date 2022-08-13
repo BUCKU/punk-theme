@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.bucku.punktheme.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.bucku.punktheme.MyBundle
 
 class MyApplicationService {
 
